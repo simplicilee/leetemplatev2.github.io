@@ -1,0 +1,56 @@
+@font-face {
+    font-family: OpenSans-CondLight;
+    src: url("../fonts/OpenSans-CondLight.ttf");
+}
+body  {
+background: linear-gradient(to bottom, #0c79d5 0%, #0c79d5 33%, #4b4b4b 33%, #4b4b4b 66%, #d0345a 66%, #d0345a 100%);
+}
+
+/*-------------------- Header Section ---------------- */
+#header .navbar-right {
+  margin-top: 30px;
+}
+#header h3 {
+  font-family: OpenSans-CondLight;
+}
+/*-------------------- Body1 Section ---------------- */
+#body1 h3, #body1 p {
+  text-align: center;
+  font-family: OpenSans-CondLight;
+}
+/*-------------------- Body2 Section ---------------- */
+#body2 h3, #body2 p {
+  text-align: center;
+  font-family: OpenSans-CondLight;
+}
+/*-------------------- Body3 Section ---------------- */
+#body3 .img-responsive {
+  margin : 0 auto;
+  margin-bottom: 22px;
+  border-radius: 10px;
+}
+
+/*-------------------- Footer Section ---------------- */
+#footer {
+  margin-bottom: 50px;
+}
+#footer h3, #footer p {
+  text-align: center;
+  font-family: OpenSans-CondLight;
+}
+#footer .form-control {
+  margin-bottom: 10px;
+}
+#footer .input_message {
+  padding-bottom: 150px;
+  padding-top: 20px;
+}
+#footer .btn-primary {
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 20px;
+}
+#footer .img-responsive {
+  margin : 0 auto;
+  border-radius: 10px;
+}
